@@ -1,1 +1,1 @@
-# DBMS_LAB_Project-Smart_Rental_Item_Management-
+# DBMS_LAB_Project-Smart_Rental_Item_Management
